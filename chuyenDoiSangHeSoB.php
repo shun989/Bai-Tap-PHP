@@ -36,7 +36,7 @@ function convertNumber($n, $b) {
 // ví dụ chuyển đổi số 30 (hệ số 10) sang hệ cơ số 2 và 16
 $n = 30;
 echo ("So " . $n . " trong he co so 2 = " . convertNumber($n, 2) . "<br>");
-echo ("So " . $n . " trong he co so 16 = " . convertNumber($n, 16));
+echo ("So " . $n . " trong he co so 16 = " . convertNumber($n, 16)) . "<br/>";
 
 // ví dụ chuyển đổi số 15 (hệ số 10) sang hệ cơ số 2 và 16
 $n = 15;
